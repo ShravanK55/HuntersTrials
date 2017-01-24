@@ -3,7 +3,7 @@
 #include "HuntersTrials.h"
 #include "HuntersTrialsGameMode.h"
 #include "HuntersTrialsHUD.h"
-#include "HuntersTrialsCharacter.h"
+#include "Player/FirstPersonCharacter.h"
 
 AHuntersTrialsGameMode::AHuntersTrialsGameMode()
 	: Super()
